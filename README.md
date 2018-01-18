@@ -1,4 +1,4 @@
-# Nom du projet:Stéganographie
+# Nom du projet:        Stéganographie
 
 ---
 
@@ -46,7 +46,7 @@ Cette application permet de cacher un texte dans une image et de le récupérer
 
 ---
 
-- [Début de page](#nom-du-projet:-stéganographie)
+- [Début de page](#table-des-matières)
 
 
 
