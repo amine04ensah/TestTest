@@ -32,3 +32,7 @@ Cette application permet de cacher un texte dans une image et de le récupérer
 
 ## Captures:
 
+### Page de chargement de l'application:
+
+<img src="SteganoTest/Captures/01.jpg" width="250" height="250" />
+
