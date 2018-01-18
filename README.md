@@ -34,7 +34,19 @@ Cette application permet de cacher un texte dans une image et de le récupérer
 
 - Page de chargement de l'application:
 
-<img src="SteganoTest/Captures/01.JPG" width="700">
+<img src="SteganoTest/Captures/01.JPG" >
+
+- Page de dissimulation d'un texte dans une image:
+
+<img src="SteganoTest/Captures/02.JPG">
+
+- Page d'extraction d'un texte d'une image:
+
+<img src="SteganoTest/Captures/03.JPG" >
+
+---
+
+- [Début de page](#description)
 
 
 
